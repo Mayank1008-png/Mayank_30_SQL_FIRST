@@ -217,3 +217,4 @@ alter table employees
 modify join_date date default CURRENT_DATE;
 -- Ques30)drop the projects table if its exist-- 
 drop table if exists projects;
+
